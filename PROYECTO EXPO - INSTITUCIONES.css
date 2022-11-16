@@ -1,0 +1,53 @@
+body{
+    background-color:  #FFC4AB;
+}
+.a{
+    margin-left: 7px;
+    padding: 5px;
+    color: black; 
+}
+.b{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+    margin-left: 25px;}
+.t1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #92908E;  
+     font-size: 18px;
+ }
+ .c{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+    margin-left: 25px;}
+.t2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #92908E;  
+     font-size: 18px;
+ }
+ .d{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+    margin-left: 25px;}
+.t3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #92908E;  
+     font-size: 18px;
+ }
+ .e{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+    margin-left: 25px;}
+.t4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #92908E;  
+     font-size: 18px;
+ }
+ .f{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+    margin-left: 25px;}
+.t5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #92908E;  
+     font-size: 18px;
+ }

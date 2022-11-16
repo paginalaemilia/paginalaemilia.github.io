@@ -1,0 +1,27 @@
+header{
+    justify-content: flex-end;
+    height: 130px;
+    background-color: lightcyan;
+    padding: 20px;
+
+}
+.a{
+    margin-right: 630px;
+    font-style: oblique;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nav-link{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-style: oblique;
+    font-display: 50px;
+    
+
+}
+.uno{
+    margin-top: -67px;
+    font-size: 23px;
+    color: black;
+    
+}

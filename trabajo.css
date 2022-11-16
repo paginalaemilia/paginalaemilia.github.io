@@ -1,0 +1,56 @@
+header{
+    display: inline-block;
+  
+    border: solid black 2px;
+    width: 100%;
+}
+img{
+    height: 150px;
+    width: 307px;
+}
+/*li{
+    display: inline-block;
+    padding: 10px;
+    background-color:#387373 ;
+    margin-right: 140px;
+    margin-left: 80px;
+    border: solid black 2px;
+    text-align: center;
+    width: 100px;
+}
+li:hover{
+    background-color:aquamarine ;
+    
+}
+li:active{
+    background-color: rgb(45, 219, 161);
+    padding: 4px;
+}*/
+.titulo1{
+    background-color:coral ;
+    text-align: center;
+    color:white;
+}
+footer{
+   
+    border: solid black 2px;
+}
+.logo{
+
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+   margin-left: 880px;
+}
+nav{
+    width: 100;
+}
+
+body{
+    background-image: url(logo2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 50%;
+}
+

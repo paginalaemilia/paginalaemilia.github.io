@@ -1,0 +1,83 @@
+header{
+    display: flex;
+    justify-content: flex-end;
+    height: 80px;
+    background-color: coral;
+    align-items: center;
+    padding: 25px;
+
+}
+.p{
+    margin-right: 690px;
+    font-style: oblique;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.b{
+    width: 230px;
+    height: 230px;
+    margin-left: 30%;
+    margin-top: -275px;
+    
+    
+}
+.caja1{
+    width: 1030px;
+    height: 50px;
+    display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 8px;
+}
+
+.caja2{
+    margin-left: 930px;
+    margin-bottom: 90px;
+    
+}
+    
+.caja3{
+    width: 1260px;
+    height: 50px;
+    display: inline-block;
+    padding: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: -250px;
+}
+
+.uno{
+    margin-left: 15%;
+    
+}
+
+.boton1{
+    margin-left: 15%;
+
+}
+.boton2{
+    margin-right: 25%;
+}
+.caja4{
+    padding: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.caja5{
+    padding: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.caja6{
+    padding: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.caja7{
+    padding: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mapa{
+    margin-left: 20%;
+}
+.letra{
+    margin-left: 8%;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
